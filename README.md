@@ -5,19 +5,19 @@
 
 ---
 
-## 📘 Course Information  
+##  Course Information  
 **Course Title:** Mathematical Analysis for Computer Science  
 **Course Code:** CSE 361
 
 ---
 
-## 🔐 Algorithm Name  
+##  Algorithm Name  
 ### BitTwistX Cipher  
 *(Bitwise XOR with Rotational Twist & Key-based Shift)*
 
 ---
 
-## 🧑‍💻 Submitted By  
+##  Submitted By  
 **Name:** Md Alhasnain Bin Arif  
 **Student ID:** *2102038*  
 **Level:** 3  
@@ -26,7 +26,7 @@
 
 ---
 
-## 👨‍🏫 Submitted To  
+##  Submitted To  
 **Name:** Pankaj Bhowmik  
 **Designation:** Lecturer  
 **Department:** Computer Science and Engineering
@@ -37,7 +37,7 @@
 
 ---
 
-## 🔐 Algorithm Description  
+##  Algorithm Description  
 **BitTwistX Cipher** is a custom-designed symmetric cryptographic algorithm based on:
 
 - ASCII value manipulation  
@@ -48,16 +48,16 @@
 
 ---
 
-## 📑 Table of Contents
-- 🔒 Encryption Algorithm  
-- 🔓 Decryption Algorithm  
-- ✅ Example Test Case  
-- 🧠 Flowcharts  
-- 💻 C++ Source Code
+##  Table of Contents
+-  Encryption Algorithm  
+-  Decryption Algorithm  
+-  Example Test Case  
+-  Flowcharts  
+-  C++ Source Code
 
 ---
 
-## 🔒 Encryption Algorithm
+##  Encryption Algorithm
 
 Let:  
 - `K[i]` = ASCII value of the i-th character of the **Key**  
@@ -73,7 +73,7 @@ Let:
 
 ---
 
-## 🔓 Decryption Algorithm
+##  Decryption Algorithm
 
 Let:  
 - `K[i]` = ASCII value of the i-th character of the **Key**  
@@ -89,7 +89,7 @@ Let:
 
 ---
 
-## ✅ Example Test Case
+##  Example Test Case
 
 **Plaintext:** `Hi`  
 **Key:** `XY`
@@ -111,17 +111,17 @@ Let:
 |  0  | 16           | 16     | (0 bits) → 16   | 16 XOR 88 = 72 | 72               | H    |
 |  1  | 96           | 96     | (1 bit) → 48    | 48 XOR 89 = 105 | 105              | i    |
 
-✅ **Decrypted Text:** `Hi`
+**Decrypted Text:** `Hi`
 
 ---
 
-## 🧠 Flowcharts
+##  Flowcharts
 
 *Attach flowchart images for encryption and decryption here, or draw them in your notebook.*
 
 ---
 
-## 💻 C++ Source Code
+##  C++ Source Code
 
 ```cpp
 #include <iostream>
