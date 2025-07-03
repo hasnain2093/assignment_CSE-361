@@ -1,11 +1,13 @@
+<div align="center">
+
 # Hajee Mohammad Danesh Science and Technology University  
 **Dinajpur-5200**
 
 ---
 
-## 📘 Course Information
-- **Course Title:** Mathematical Analysis for Computer Science  
-- **Course Code:** CSE 361
+## 📘 Course Information  
+**Course Title:** Mathematical Analysis for Computer Science  
+**Course Code:** CSE 361
 
 ---
 
@@ -16,18 +18,22 @@
 ---
 
 ## 🧑‍💻 Submitted By  
-- **Name:** Md Alhasnain Bin Arif  
-- **Student ID:** *Your Student ID Here*  
-- **Level:** 3  
-- **Semester:** II  
-- **Department:** Computer Science and Engineering
+**Name:** Md Alhasnain Bin Arif  
+**Student ID:** *Your Student ID Here*  
+**Level:** 3  
+**Semester:** II  
+**Department:** Computer Science and Engineering
 
 ---
 
 ## 👨‍🏫 Submitted To  
-- **Name:** Pankaj Bhowmik  
-- **Designation:** Lecturer  
-- **Department:** Computer Science and Engineering
+**Name:** Pankaj Bhowmik  
+**Designation:** Lecturer  
+**Department:** Computer Science and Engineering
+
+---
+
+</div>
 
 ---
 
