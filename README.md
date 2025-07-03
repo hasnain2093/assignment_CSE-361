@@ -1,9 +1,12 @@
+<p align="center">
+  <img src="./HSTU_Logo (2).png" alt="HSTU Logo" width="150">
+</p>
+
+<h2 align="center"><strong>Hajee Mohammad Danesh Science and Technology University</strong></h2>
+
+<h3 align="center">Dinajpur-5200</h3>
+
 <div align="center">
-
-# Hajee Mohammad Danesh Science and Technology University  
-**Dinajpur-5200**
-
----
 
 ##  Course Information  
 **Course Title:** Mathematical Analysis for Computer Science  
