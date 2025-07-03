@@ -115,11 +115,6 @@ Let:
 
 ---
 
-##  Flowcharts
-
-*Attach flowchart images for encryption and decryption here, or draw them in your notebook.*
-
----
 
 ##  C++ Source Code
 
